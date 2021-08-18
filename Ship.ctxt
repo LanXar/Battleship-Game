@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=start\ ori\ Size
+comment1.target=Ship(Tile,\ Ship.Orientation,\ int)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=x
+comment3.target=Tile\ setStart(Tile)
+comment4.params=orien
+comment4.target=Ship.Orientation\ setOri(Ship.Orientation)
+comment5.params=
+comment5.target=boolean\ shipFits()
+comment6.params=board
+comment6.target=boolean\ shipOnShip(Board)
+comment7.params=board
+comment7.target=boolean\ neighborShip(Board)
+comment8.params=board\ verbose
+comment8.target=boolean\ placeShip(Board,\ java.lang.Boolean)
+comment9.params=start\ ori\ board\ verbose
+comment9.target=boolean\ placeShip(Tile,\ Ship.Orientation,\ Board,\ java.lang.Boolean)
+numComments=10

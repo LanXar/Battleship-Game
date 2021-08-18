@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=x\ y
+comment1.target=Tile(int,\ int)
+comment2.params=
+comment2.target=int\ getx()
+comment3.params=
+comment3.target=int\ gety()
+comment4.params=x
+comment4.target=void\ setx(int)
+comment5.params=y
+comment5.target=void\ sety(int)
+comment6.params=hidden
+comment6.target=void\ draw(boolean)
+numComments=7

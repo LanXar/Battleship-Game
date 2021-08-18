@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=void\ placeAllShips()
+comment10.params=
+comment10.target=void\ getStats()
+comment2.params=ship\ x\ ori
+comment2.target=void\ placeShip(Ship,\ int[],\ Ship.Orientation)
+comment3.params=board\ coordinates
+comment3.target=void\ fire(Board,\ int[])
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=int\ shotsFired()
+comment7.params=
+comment7.target=int\ shotsMissed()
+comment8.params=
+comment8.target=int\ shotsLanded()
+comment9.params=
+comment9.target=int\ repeatShots()
+numComments=11

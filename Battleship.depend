@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527632765 source:a:\c++ workspace\battleship\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<exception>
+	<vector>
+	<unistd.h>
+	<thread>
+	<chrono>
+
